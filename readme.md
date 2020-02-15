@@ -1,3 +1,5 @@
+Converted to a sibs project from the original cmake project at https://github.com/JoshuaBrookover/bgfx.cmake#bgfxcmake
+
 bgfx.cmake
 ===================
 [![Build Status](https://travis-ci.org/JoshuaBrookover/bgfx.cmake.svg?branch=master)](https://travis-ci.org/JoshuaBrookover/bgfx.cmake)
